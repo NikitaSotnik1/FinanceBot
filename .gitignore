@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Секреты и настройки
+appsettings.json
+
+# Личные базы данных
+*.db
+
+# Папки сборки (если их там еще нет)
+[Bb]in/
+[Oo]bj/

@@ -1,3 +1,4 @@
 <Solution>
+  <Folder Name="/Элементы решения/" />
   <Project Path="FinanceBot/FinanceBot.csproj" />
 </Solution>
